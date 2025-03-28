@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LiarGs
 - 👀 I’m interested in code
-- 🌱 I’m currently learning python 
+- 🌱 I’m currently learning cpp
 - Infact I'm a newbee
 
 <!---
